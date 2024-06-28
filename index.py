@@ -1,4 +1,4 @@
-from gui_main import TicTacToe
+from gui import TicTacToe
 import tkinter as tk
 
 
